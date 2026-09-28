@@ -1,0 +1,6 @@
+{
+  "name": "CineVault - Streaming & Upsell para Séries",
+  "description": "Plataforma de streaming para séries de episódio único com prévias limitadas de upsell, bloqueio automático e inteligência Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
